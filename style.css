@@ -1,15 +1,15 @@
 #levy { background-color: rgb(178, 230, 173); 
     width:400 ;
      height: 500px; }
-#pravy { background-color: rgb(209, 22, 162);
+#pravy { background-color: rgb(209, 22, 162);
     width:54 ;
      height: 300px; }
 #pravy1 {background-color: rgb(240, 2, 2);
     width:455 ;
      height: 150px; }
-#pravy2 { background-color: lightsalmon;  
+#pravy2 {background-color: lightsalmon; 
     width:444 ;
-      height: 250px; }
-#stopka { background-color: rgb(30, 17, 219);  
+    height: 250px;}
+#stopka { background-color: rgb(30, 17, 219);
     width:200 ;
-      height: 100px; }
+     height: 100px; }
