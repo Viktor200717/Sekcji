@@ -1,29 +1,31 @@
 #levy {
-    background-color: lightblue; /* Kolor dla sekcji "levy" */
-    height: 100vh; /* Wysokość 100% wysokości ekranu */
-    width: 50%; /* Szerokość 50% ekranu */
-    float: left; /* Wyrównanie do lewej */
+    background-color: blue;
+    height: 100vh; 
+    width: 50%; 
+    float: left; 
 }
 
 #pravy {
-    background-color: lightgreen; /* Kolor dla sekcji "pravy" */
-    height: 100vh; /* Wysokość 100% wysokości ekranu */
-    width: 50%; /* Szerokość 50% ekranu */
-    float: left; /* Wyrównanie do lewej */
+    background-color: green; 
+    height: 100vh; 
+    width: 50%; 
+    float: left; 
 }
 
 #pravy1 {
-    background-color: lightcoral; /* Kolor dla sekcji "pravy1" */
-    height: 50%; /* Wysokość 50% sekcji "pravy" */
-    width: 100%; /* Szerokość 100% sekcji "pravy" */
+    background-color: lightcoral; 
+    height: 50%; 
+    width: 100%; 
 }
 
 #pravy2 {
-    background-color: lightsalmon; /* Kolor dla sekcji "pravy2" */
-    height: 50%; /* Wysokość 50% sekcji "pravy" */
-    width: 100%; /* Szerokość 100% sekcji "pravy" */
-}
-#stopka { background-color: rgb(30, 17, 219);
-    height: 15%;
+    background-color: red; 
+    height: 50%; 
     width: 100%; 
-        }
+}
+#stopka {
+    background-color: grey; 
+    height: 10vh; 
+    width: 100%; 
+    clear: both; 
+}
